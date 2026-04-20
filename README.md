@@ -22,3 +22,12 @@ The SQL queries support:
 
 ## Notes
 The dataset used in this project is synthetic and created for practice purposes.
+
+## Key Insights
+
+- Approximately 31% of patients were classified as high risk based on ER visits, abnormal lab results, and active medications.
+- The majority of patients fall into the medium-risk category, indicating moderate overall population risk.
+- Risk is primarily driven by abnormal lab results and active medications, with fewer patients experiencing ER visits.
+- The analysis highlights how combining multiple clinical indicators can help identify patients who may require closer monitoring.
+
+This project demonstrates how SQL and Power BI can be used together to identify risk patterns and support data-driven decision making in a healthcare setting.
